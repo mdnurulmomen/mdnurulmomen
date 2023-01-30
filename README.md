@@ -82,6 +82,4 @@ I'm Momen, A passionate full stack developer from  Dhaka, Bangladesh. Love devel
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mdnurulmomen&theme=gruvbox&hide_border=true&border_radius=40&mode=weekly&background=60081C)](https://git.io/streak-stats)
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mdnurulmomen&label=Profile%20views&color=0e75b6&style=flat" alt="mdnurulmomen" /> 
-</p>
+![](https://komarev.com/ghpvc/?username=mdnurulmomen&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
