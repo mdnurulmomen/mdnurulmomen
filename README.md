@@ -76,7 +76,15 @@ I'm Momen, A passionate full stack developer from  Dhaka, Bangladesh. Love devel
 
 <p align="left">
   <a href="https://www.linkedin.com/in/md-nurul-momen-9aa287a2" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-nurul-momen-9aa287a2" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/md-nurul-momen-9aa287a2" />
+  </a>
+  
+  <a href="https://mail.google.com/mail/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  
+  <a href="https://github.com/mdnurulmomen" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="https://github.com/mdnurulmomen" />
   </a>
 </p>
 
