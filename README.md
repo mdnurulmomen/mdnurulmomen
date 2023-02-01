@@ -1,8 +1,10 @@
-### Hey😐! Nice to see you.
+### Hey😄! Nice to see you.
 
 Welcome to my page !
 
-I'm Momen, A passionate full stack developer from  Dhaka, Bangladesh. Love developing dynamic applications and share my knowledge to others.
+I'm Momen. A passionate Full Stack Developer with a huge love for Laravel, Vue.js, Everything API, Javascript, RDBMS and System Architecture. Love developing dynamic applications and share my knowledge to others.
+**Currently, I'm open to work and employment opportunities**.
+
 
 #### About Me
 
@@ -10,7 +12,9 @@ I'm Momen, A passionate full stack developer from  Dhaka, Bangladesh. Love devel
 
 - I’m collaborating on [Qupaid](https://qupaid.com/), [Gudam](https://gudam.com.bd/)
 
-- Ask me about **Laravel, Vue.js, JS (ES6 & JQuery), RDBMS-Design, MySQL, Oracle Databases & Web-Socket Technologies.**
+- I’m currently learning many things, I believe that everyday is a learning opportunity.
+
+- Ask me about **Laravel, PHP, Vue.js, JS (ES6 & JQuery), MySQL, API development & Web-Socket Technologies.**
 
 #### Technology Stack
 
@@ -72,7 +76,7 @@ I'm Momen, A passionate full stack developer from  Dhaka, Bangladesh. Love devel
   </a> 
 </p>
 
-#### Connect with me
+#### Where to find me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/md-nurul-momen-9aa287a2" target="blank">
