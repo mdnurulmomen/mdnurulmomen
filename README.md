@@ -2,13 +2,13 @@
 
 Welcome to my page !
 
-I'm Momen. A passionate Full Stack Developer with a huge love for Laravel, Vue.js, Everything API, Javascript, RDBMS and System Architecture. Love developing dynamic applications and share my knowledge to others.
+I'm Momen. A passionate Full Stack Developer cum project coordinator with a huge love for Laravel, Vue.js, Everything API, Javascript, RDBMS and System Architecture. I actively work on the stages from requirement analysis to deployment through proper design, development, execution & testing for a deliverable application.
 **Currently, I'm open to work and employment opportunities**.
 
 
 #### About Me
 
-- I’m currently working on [govt. IT projects.](https://www.nothi.gov.bd/)
+- I’m currently working on [governmental digital projects.](https://www.nothi.gov.bd/)
 
 - I’m collaborating on [Qupaid](https://qupaid.com/), [Gudam](https://gudam.com.bd/)
 
