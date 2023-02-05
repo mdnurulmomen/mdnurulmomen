@@ -78,11 +78,11 @@ I'm Momen. A passionate Full Stack Developer cum project coordinator with a huge
 
 #### Profile Stats
 
+![](https://komarev.com/ghpvc/?username=mdnurulmomen&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnurulmomen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mdnurulmomen&theme=gruvbox&hide_border=true&border_radius=40&mode=weekly&background=60081C)](https://git.io/streak-stats)
-
-![](https://komarev.com/ghpvc/?username=mdnurulmomen&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
 
 #### Where to find me
 
