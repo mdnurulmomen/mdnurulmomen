@@ -88,7 +88,7 @@ I'm Momen. A passionate Full Stack Developer cum project coordinator with a huge
   </a>
   
   <a href="https://github.com/mdnurulmomen" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="https://github.com/mdnurulmomen" />
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="https://github.com/mdnurulmomen"/>
   </a>
 </p>
 
