@@ -8,9 +8,7 @@ I'm Momen. A passionate Full Stack Developer cum project coordinator with a huge
 
 #### About Me
 
-- I’m currently working on [offshore projects.](https://letsplan.ch/)
-
-- I’m collaborating on [Qupaid](https://qupaid.com/), [Gudam](https://gudam.com.bd/), [governmental digital projects.](https://www.nothi.gov.bd/)
+- I’m currently working on [offshore projects.](https://myketobrain.ch/)
 
 - I’m currently learning many things, I believe that everyday is a learning opportunity.
 
