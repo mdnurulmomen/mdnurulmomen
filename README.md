@@ -1,8 +1,8 @@
-### Hey😄! Nice to see you.
+### Oh, Hey👋! Nice to see you.
 
 Welcome to my page !
 
-I'm Momen. A passionate Full Stack Developer cum project coordinator with a huge love for Laravel, Vue.js, Everything API, Javascript, RDBMS and System Architecture. I actively work on the stages from requirement analysis to deployment through proper design, development, execution & testing for a deliverable application.
+I'm Momen. A passionate Full Stack Developer cum project coordinator with a huge love for Laravel, Vue.js, Everything API, Javascript, RDBMS, NoSQL and System Architecture. I actively work on the stages from requirement analysis to deployment through proper design, development, execution & testing for a deliverable application.
 **Currently, I'm open to work and employment opportunities**.
 
 
@@ -12,26 +12,18 @@ I'm Momen. A passionate Full Stack Developer cum project coordinator with a huge
 
 - I’m currently learning many things, I believe that everyday is a learning opportunity.
 
-- Ask me about **Laravel, PHP, Vue.js, JS (ES6 & JQuery), MySQL, API development, Web-Socket & Automation Technologies.**
+- Ask me about **Laravel, PHP, Vue.js, JS (ES6 & JQuery), MySQL, API development, Web Socket, Server Management & Automation Technologies.**
 
 #### Technology Stack
 
 <p align="left">
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+    <img src="https://laravel.com//img/logomark.min.svg" alt="laravel" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
-  
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
   
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
@@ -49,10 +41,6 @@ I'm Momen. A passionate Full Stack Developer cum project coordinator with a huge
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
   </a> 
   
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
@@ -64,6 +52,14 @@ I'm Momen. A passionate Full Stack Developer cum project coordinator with a huge
   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
   </a>
+
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </a> 
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
