@@ -2,7 +2,7 @@
 
 Welcome to my page !
 
-I'm Momen. A passionate Full Stack Developer cum project coordinator with 7+ years of experience in building high-performing web applications across multiple domains, including Edutech, Fintech, Healthcare, Games and many more. My expertise spans across backend, frontend, and DevOps, with a strong focus on clean architecture, performance optimization, and efficient system design. I actively work on each stage from requirement analysis to deployment through proper design, development, execution & testing for a deliverable application.
+I'm Momen. A passionate Full Stack Developer cum project coordinator with 9+ years of experience in building high-performing web applications across multiple domains, including Edutech, Fintech, Healthcare, Games and many more. My expertise spans across backend, frontend, and DevOps, with a strong focus on clean architecture, performance optimization, and efficient system design. I actively work on each stage from requirement analysis to deployment through proper design, development, execution & testing for a deliverable application.
 
 ### 🔧 Technical Skills
 
